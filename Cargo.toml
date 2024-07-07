@@ -1,0 +1,14 @@
+[package]
+name = "ewe"
+version = "1.0.0"
+authors = ["immodestproposal"]
+edition = "2021"
+#rust-version = "1.56"
+license = "MIT"
+repository = "https://github.com/immodestproposal/cove"
+description = """
+Error-Wrapping Extensions (EWE): utilities for application-layer errors
+"""
+documentation = "https://docs.rs/cove/latest/ewe/"
+#keywords = ["from", "into", "cast", "conversion", "no_std"]
+#categories = ["encoding", "mathematics", "no-std", "no-std::no-alloc", "rust-patterns"]
